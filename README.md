@@ -48,6 +48,8 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## electron step by step
 
+新手教程： https://electron.org.cn/demo.html
+
 ### 将已有的网站放入electron中打开
 - main.js 中 创建窗口函数中，添加`mainWindow.loadURL(地址)`   
-参考https://newsn.net/say/electron-pack-site.html
+参考 https://newsn.net/say/electron-pack-site.html
