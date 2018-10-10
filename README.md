@@ -43,3 +43,11 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+
+
+
+## electron step by step
+
+### 将已有的网站放入electron中打开
+- main.js 中 创建窗口函数中，添加`mainWindow.loadURL(地址)`   
+参考https://newsn.net/say/electron-pack-site.html
